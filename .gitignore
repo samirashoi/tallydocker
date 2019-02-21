@@ -3,3 +3,4 @@ geckodriver.log
 myenv
 __pycache__
 *.pyc
+.vscode
